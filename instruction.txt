@@ -1,0 +1,3 @@
+script con python 
+
+url para raspar: https://www.imdb.com/chart/top/
